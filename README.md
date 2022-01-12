@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cow-bird
 - 👀 I’m interested in open source software
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on Serenity OS
-- 📫 How to reach me ... please don't
+- 🌱 I’m currently learning everything (Ihave alot to learn)
 
 <!---
 cow-bird/cow-bird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
